@@ -1,0 +1,29 @@
+ body {background-color: rgb(16, 163, 107);}
+
+ .p1 {text-align: center;
+font-size: 300%;
+color: rgb(0, 255, 157);
+border-color: rgb(2, 2, 17);
+border-width: 6px;
+border-style: double ;
+margin-left: 30%;
+margin-right: 25%;
+padding-left: 8%;
+padding-top: 4%;
+background-color: blueviolet;
+
+
+}
+ 
+.p2 {text-align: center;
+    font-size: 200%;
+    color: rgb(0, 38, 255);
+    border-color: rgb(34, 163, 23);
+    border-width: 6px;
+    border-style: double ;
+    margin-left: 35%;
+    margin-right: 5%;
+    padding-left: 15%;
+    padding-top: 4%;
+    background-color: rgb(204, 18, 34);
+}
